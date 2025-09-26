@@ -26,3 +26,6 @@ O projeto inclui:
 O trabalho demonstra como operações simples de pré-processamento podem reduzir a dimensionalidade de imagens e servir como base para aplicações mais avançadas em visão computacional e aprendizado de máquina. 
 
 Além disso, fornece uma implementação prática e modular que pode ser facilmente adaptada a diferentes contextos de análise de imagens.
+
+
+<img src="https://github.com/monicaneli/Reducao_de_dimensionalidade_em_imagens/blob/51f66cbf2ccfa5d7a24f122e7a0ea2dd1cd94c21/resultados.png" />
